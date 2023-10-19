@@ -20,3 +20,5 @@ if (xpDoHeroi < 1000) {
 } else {
     nivelDoHeroi = "Radiante";
 }
+
+console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
